@@ -1,0 +1,81 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "3165e84471b2cca0d514",
+  "publicPath": "/static/",
+  "outputPath": "/Users/florian/Documents/Projects/frontity-tailwind/build/static",
+  "assetsByChunkName": {
+    "frontity-tailwind": "frontity-tailwind.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "frontity-tailwind.module.js",
+      "size": 5137430,
+      "chunks": [
+        "frontity-tailwind"
+      ],
+      "chunkNames": [
+        "frontity-tailwind"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 48349,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "frontity-tailwind": {
+      "chunks": [
+        "frontity-tailwind"
+      ],
+      "assets": [
+        "frontity-tailwind.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "frontity-tailwind": {
+      "chunks": [
+        "frontity-tailwind"
+      ],
+      "assets": [
+        "frontity-tailwind.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
